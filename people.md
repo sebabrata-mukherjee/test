@@ -1,4 +1,6 @@
-# xyz
+# People
+
+## PI: Sebabrata Mukherjee
 <img src="imageN/me.jpeg" width="140" /> 
 
 Sebabrata Mukherjee was awarded the B.Sc. in Physics from the University of Calcutta in 2010 and the M.Sc. in Physics from the Indian Institute of Technology Delhi in 2012. Prior to his doctoral research, he worked as a Project Associate at IIT Delhi. He undertook his Ph.D. at Heriot-Watt University, Edinburgh in the area of experimental simulation of solid-state phenomena in photonic structures and was subsequently awarded “[The 2016 MacFarlane Prize](https://www.hw.ac.uk/uk/students/doc/macfarlane-fund-poster.pdf)” for the most outstanding contribution to the research at the University. He worked as a Research Associate at Heriot-Watt University and postdoctoral scholar at the Pennsylvania State University, USA. He will join IISc Bangalore as an Assistant Professor in September 2021. <br />
@@ -15,3 +17,22 @@ See Sebabrata Mukherjee’s [ORCID](https://orcid.org/0000-0003-1942-2521) page.
 4. S. Mukherjee et al., "State-recycling and time-resolved imaging in topological photonic lattices," [Nature Communications **9**, 4209 (2018)](https://doi.org/10.1038/s41467-018-06723-y). Press release: [BBC News](https://www.bbc.com/news/uk-scotland-46070122?SThisFB&fbclid=IwAR3Ln2qR31mAFf4uhu81kmCbJ13mMbOYWxq6Sm19EIHwQQM-ISZu1ALAscA).
 5. S. Mukherjee et al., "Experimental observation of anomalous topological edge modes in a slowly driven photonic lattice," [Nature Communications **8**, 13918 (2017)](https://doi.org/10.1038/ncomms13918).
 6. S. Mukherjee et al., "Observation of a localized flat-band state in a photonic Lieb lattice," [Physical Review Letters **114**, 245504 (2015)](https://doi.org/10.1103/PhysRevLett.114.245504). Featured in Physics & Editors' Suggestion. Viewpoint in Physical Review Letters [doi:10.1103/Physics.8.55](https://physics.aps.org/articles/v8/55). <br /> News & Views in Nature Materials [doi:10.1038/nmat4378](https://doi.org/10.1038/nmat4378).
+
+
+
+
+# Ph.D. scholars
+
+## Name Name
+email: xyz@gmail.com
+
+
+# Postdoctoral researchers
+
+## Name Name
+email: abc@gmail.com
+
+
+
+
+
