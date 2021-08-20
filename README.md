@@ -1,9 +1,9 @@
-  - **Education** 
+<img align="right" src="imageN/me.jpeg" width="150"/>
+
+- **Education**  
   - Ph.D. Physics, Heriot-Watt University, Edinburgh, UK (2016) 
   - M.Sc. Physics, IIT Delhi, New Delhi, India (2012) 
   - B.Sc. Physics (Hons), University of Calcutta, India (2010)
-  <img align="right" src="imageN/me.jpeg" width="220">
-
 
 
 
