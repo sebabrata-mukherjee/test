@@ -6,8 +6,7 @@
 Cyclotron-like motion of a Floquet soliton in a topological bandgap
 </p>
 
-<p align="center">
 [Next](home1.md) 
-</p>
+
 
 
