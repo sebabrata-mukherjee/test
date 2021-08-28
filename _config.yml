@@ -59,6 +59,8 @@ minima:
 header_pages:
 - people.md
 - research.md
+- test.md
+- test2.md
  
 
 number_sections: true
