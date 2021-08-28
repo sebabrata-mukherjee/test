@@ -1,1 +1,7 @@
-
+.site-title::before {
+content: url("/imageN/iisc-logo.png");
+display: inline-block;
+position: relative;
+width: 32px;
+top: 32px;
+}
