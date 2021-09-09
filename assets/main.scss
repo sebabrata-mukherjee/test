@@ -5,8 +5,24 @@
  * the dashed lines above are required
  */
 
-$background-color: #111111; /* a dark, off-black for the bg */
+.simpleLinearGradient (@color1: black, @color2: white) {
+	background-color: @color1;
+	/* The old syntax, deprecated, but still needed with the -o, -ms and -webkit prefixes*/
+	background: -webkit-gradient(linear, left top, left bottom, from(@color1), to(@color2));
+	background: -webkit-linear-gradient(top, @color1, @color2);
+	background: -moz-linear-gradient(top, @color1, @color2);
+	background: -o-linear-gradient(top, @color1, @color2);
+	background: -ms-linear-gradient(top, @color1, @color2);
+	background: linear-gradient(top, @color1, @color2);
+	/* The new syntax needed for Firefox 10 onwards, with the -moz prefix */
+	background: linear-gradient(to bottom, @color1, @color2);
+	background: -moz-linear-gradient(to bottom, @color1, @color2);
+}
+
+
+/* $background-color: #111111; /* a dark, off-black for the bg */
 $text-color: #FFFFFF; /* an off-white for the text */
+*/
 $grey-color-light: #565656; /* for the border-top separators */
 $grey-color-dark: #FFFFFF; /* such as the site title in the header, visited */
 
