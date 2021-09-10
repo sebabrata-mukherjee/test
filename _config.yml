@@ -3,4 +3,15 @@ logo: /imageN/iisc-logo.png
 description: #Minimal is a theme for GitHub Pages.
 show_downloads: #true
 google_analytics:
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+- people.md
+- research.md
+- contact.md
+- test1.md
+- test2.md
+
+
 theme: jekyll-theme-minimal
